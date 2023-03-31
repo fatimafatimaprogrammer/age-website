@@ -106,12 +106,11 @@ The ordering of different Agtype, when using &lt;, &lt;=, >, >= from smallest va
 2. Path
 3. Map
 4. Vertex
-5. Edge
-6. Array
-7. String
-8. Bool
-9. Numeric, Integer, Float
-10. NULL
+5. Array
+6. String
+7. Bool
+8. Numeric, Integer, Float
+9. NULL
 
 Note: This is subject to change in future releases.
 
